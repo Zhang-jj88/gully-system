@@ -1,2 +1,2 @@
-# gully-system
+# gully system
 experimental data
